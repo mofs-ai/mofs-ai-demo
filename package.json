@@ -1,0 +1,12 @@
+{
+  "name": "mofs-ai-demo",
+  "version": "1.0.0",
+  "description": "www.mofs.ai demo project",
+  "main": "index.js",
+  "author": "www.mofs.ai",
+  "license": "ISC",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
